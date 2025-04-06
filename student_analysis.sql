@@ -1,5 +1,12 @@
 -- Student Performance Analysis SQL
 
+---
+
+## 🌐 View My Dashboard on Tableau Public
+
+🔗 [Click here to explore the Student Performance Dashboard] - https://public.tableau.com/views/Book1_16375149630080/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+
 -- 1. Average Scores by Gender
 SELECT 
     gender,
